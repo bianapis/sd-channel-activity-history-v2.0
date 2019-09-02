@@ -1,0 +1,49 @@
+{
+  "eventRetrieveActionTaskRecord" : {},
+  "eventRetrieveActionResponse" : "eventRetrieveActionResponse",
+  "eventInstanceAnalysis" : {
+    "eventInstanceAnalysisRecord" : {},
+    "eventInstanceAnalysisReportType" : "eventInstanceAnalysisReportType",
+    "eventInstanceAnalysisReport" : {},
+    "eventInstanceAnalysisParameters" : "eventInstanceAnalysisParameters"
+  },
+  "bQEventInstanceRecord" : {
+    "customerContactResult" : "customerContactResult",
+    "productInstanceReference" : "708694",
+    "customerContactRecordReference" : "761893",
+    "customerContactRecord" : {
+      "customerContactRecordRoutingSelectionStatus" : "customerContactRecordRoutingSelectionStatus",
+      "customerContactRecordServicingResourceReference" : "744546",
+      "customerContactRecordServicingEventHistory" : "customerContactRecordServicingEventHistory",
+      "customerContactRecordServicingPositionReference" : "770880",
+      "customerContactRecordActivityRecord" : {
+        "customerContactDialogueRecord" : {},
+        "customerContactDialogueReference" : "771819"
+      },
+      "customerContactRecordContactDevice" : "customerContactRecordContactDevice",
+      "customerContactRecordServicingRequest" : "customerContactRecordServicingRequest",
+      "customerContactRecordCustomerReference" : "708013",
+      "customerContactRecordAuthenticationStatus" : "customerContactRecordAuthenticationStatus",
+      "customerContactRecordMenuSelection" : "customerContactRecordMenuSelection"
+    },
+    "channelActivityHistoryReportFromto" : "channelActivityHistoryReportFromto",
+    "transactionAuthorizationResult" : "transactionAuthorizationResult",
+    "employeeReference" : "753060",
+    "productReference" : "700860",
+    "customerContactActivityRecord" : {},
+    "channelActivityHistoryReport" : {},
+    "customerContactRecordDuration" : "customerContactRecordDuration",
+    "channelActivityHistoryReportReference" : "713922"
+  },
+  "eventInstanceReport" : {
+    "eventInstanceReportRecord" : {},
+    "eventInstanceReportType" : "eventInstanceReportType",
+    "eventInstanceReport" : {},
+    "eventInstanceReportParameters" : "eventInstanceReportParameters"
+  },
+  "eventRetrieveActionTaskReference" : "ERATR792610",
+  "channelActivityLogInstanceRecord" : {
+    "date" : "09-22-2018",
+    "customerReference" : "755120"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "channelActivityLogInstanceAnalysis" : {
+    "channelActivityLogInstanceAnalysisReportType" : "channelActivityLogInstanceAnalysisReportType",
+    "channelActivityLogInstanceAnalysisReport" : {},
+    "channelActivityLogInstanceAnalysisData" : "channelActivityLogInstanceAnalysisData"
+  },
+  "channelActivityLogRetrieveActionResponse" : "channelActivityLogRetrieveActionResponse",
+  "channelActivityLogInstanceReportRecord" : {
+    "channelActivityLogInstanceReportData" : "channelActivityLogInstanceReportData",
+    "channelActivityLogInstanceReport" : {},
+    "channelActivityLogInstanceReportType" : "channelActivityLogInstanceReportType"
+  },
+  "channelActivityLogInstanceRecord" : {
+    "date" : "09-22-2018",
+    "customerReference" : "701889"
+  },
+  "channelActivityLogRetrieveActionTaskRecord" : {},
+  "channelActivityLogRetrieveActionTaskReference" : "CALRATR713827"
+}

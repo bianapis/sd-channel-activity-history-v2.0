@@ -1,0 +1,9 @@
+{
+  "channelActivityLogInstanceReference" : "CALIR711252",
+  "channelActivityLogInstanceStatus" : "channelActivityLogInstanceStatus",
+  "channelActivityLogInitiateActionReference" : "CALIAR744700",
+  "channelActivityLogInstanceRecord" : {
+    "date" : "09-22-2018"
+  },
+  "channelActivityLogInitiateActionRecord" : {}
+}

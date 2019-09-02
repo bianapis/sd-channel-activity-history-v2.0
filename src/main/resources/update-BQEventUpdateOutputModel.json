@@ -1,0 +1,33 @@
+{
+  "bQEventInstanceRecord" : {
+    "customerContactResult" : "customerContactResult",
+    "productInstanceReference" : "768558",
+    "customerContactRecordReference" : "763310",
+    "customerContactRecord" : {
+      "customerContactRecordRoutingSelectionStatus" : "customerContactRecordRoutingSelectionStatus",
+      "customerContactRecordServicingResourceReference" : "704793",
+      "customerContactRecordServicingEventHistory" : "customerContactRecordServicingEventHistory",
+      "customerContactRecordServicingPositionReference" : "707323",
+      "customerContactRecordActivityRecord" : {
+        "customerContactDialogueRecord" : {},
+        "customerContactDialogueReference" : "702611"
+      },
+      "customerContactRecordContactDevice" : "customerContactRecordContactDevice",
+      "customerContactRecordServicingRequest" : "customerContactRecordServicingRequest",
+      "customerContactRecordCustomerReference" : "705694",
+      "customerContactRecordAuthenticationStatus" : "customerContactRecordAuthenticationStatus",
+      "customerContactRecordMenuSelection" : "customerContactRecordMenuSelection"
+    },
+    "channelActivityHistoryReportFromto" : "channelActivityHistoryReportFromto",
+    "transactionAuthorizationResult" : "transactionAuthorizationResult",
+    "employeeReference" : "790882",
+    "productReference" : "780188",
+    "customerContactActivityRecord" : {},
+    "channelActivityHistoryReport" : {},
+    "customerContactRecordDuration" : "customerContactRecordDuration",
+    "channelActivityHistoryReportReference" : "727527"
+  },
+  "eventUpdateActionTaskReference" : "EUATR743042",
+  "updateResponseRecord" : {},
+  "eventUpdateActionTaskRecord" : {}
+}
