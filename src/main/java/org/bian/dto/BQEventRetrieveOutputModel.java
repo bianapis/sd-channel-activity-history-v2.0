@@ -52,7 +52,7 @@ public class BQEventRetrieveOutputModel   {
   public BQEventRetrieveOutputModelBQEventInstanceRecord getBQEventInstanceRecord() {
     return bQEventInstanceRecord;
   }
-
+ @JsonProperty("bQEventInstanceRecord")
   public void setBQEventInstanceRecord(BQEventRetrieveOutputModelBQEventInstanceRecord bQEventInstanceRecord) {
     this.bQEventInstanceRecord = bQEventInstanceRecord;
   }

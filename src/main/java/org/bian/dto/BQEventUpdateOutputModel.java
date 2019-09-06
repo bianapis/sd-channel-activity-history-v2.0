@@ -29,7 +29,7 @@ public class BQEventUpdateOutputModel   {
   public BQEventUpdateInputModelBQEventInstanceRecord getBQEventInstanceRecord() {
     return bQEventInstanceRecord;
   }
-
+ @JsonProperty("bQEventInstanceRecord")
   public void setBQEventInstanceRecord(BQEventUpdateInputModelBQEventInstanceRecord bQEventInstanceRecord) {
     this.bQEventInstanceRecord = bQEventInstanceRecord;
   }
